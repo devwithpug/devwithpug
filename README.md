@@ -1,13 +1,7 @@
 <p align="center">
   <a href="https://devwithpug.github.io/about/">
-    <img src="https://raw.githubusercontent.com/devwithpug/devwithpug/main/assets/pug.gif"/><br>About Me
+    <img src="./assets/pug.gif"/>
   </a>
-</p>
-
-
-
-dd
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devwithpug/devwithpug/main/assets/pug.gif"/><br>About Me
+  <br>
+  <a href="https://devwithpug.github.io/about/">About Me</a>
 </p>
